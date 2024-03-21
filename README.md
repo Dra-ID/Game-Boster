@@ -1,6 +1,7 @@
 # Game-Boster
 Script game boster 120fps auto lancar support all game
 
+# Support Termux
 
 ❗ Tips Tambahan:
 Setelah Memasang Modul, Restart perangkat Android kalian agar Modul Berfungsi dengan Bai, dan mulai mainkan gamenya
@@ -15,4 +16,5 @@ cd Game-Boster
 python boster.py
 ```
 KALO MAU RECORD IZIN DULULAH GOBLOK :)
+
 tanks kz.Tutorial loveee
