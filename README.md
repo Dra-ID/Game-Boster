@@ -1,6 +1,10 @@
 # Game-Boster
 Script game boster 120fps auto lancar support all game
 
+
+❗ Tips Tambahan:
+Setelah Memasang Modul, Restart perangkat Android kalian agar Modul Berfungsi dengan Bai, dan mulai mainkan gamenya
+
 ```
 pkg update && pkg upgrade
 pkg install python
